@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:3:5-32
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:5:5-30
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:4:5-28
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:8:22-76
+uses-sdk
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:9:5-74
+MERGED from [com.google.android.gms:play-services-ads:10.2.4] /home/kingf/.android/build-cache/6e5fe316de2d85acea8fdf696cd5a5846465be00/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] /home/kingf/.android/build-cache/9e9cbbe01715f87e11df7b2cb36f82b3a7ad34bc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/kingf/.android/build-cache/5b54e1d693aac12a9d80e23fd2b00001a0a200d3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] /home/kingf/.android/build-cache/24eecaebb01b62748151b137bc1dd681a7a7f20f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/kingf/.android/build-cache/4c13b170cecd363b08c3c352677302d0631270b8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] /home/kingf/.android/build-cache/2edc6b3a25d2b2f7244c6c5630c7153554494557/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /home/kingf/.android/build-cache/2edc6b3a25d2b2f7244c6c5630c7153554494557/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:9:42-71
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:9:15-41
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+		INJECTED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml
+application
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:11:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] /home/kingf/.android/build-cache/9e9cbbe01715f87e11df7b2cb36f82b3a7ad34bc/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/kingf/.android/build-cache/5b54e1d693aac12a9d80e23fd2b00001a0a200d3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] /home/kingf/.android/build-cache/24eecaebb01b62748151b137bc1dd681a7a7f20f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/kingf/.android/build-cache/4c13b170cecd363b08c3c352677302d0631270b8/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /home/kingf/.android/build-cache/2edc6b3a25d2b2f7244c6c5630c7153554494557/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:15:9-40
+activity#com.mygdx.example.AndroidLauncher
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:20:13-83
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:17:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:23:27-74
+meta-data#com.google.android.gms.version
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:26:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/kingf/.android/build-cache/4c13b170cecd363b08c3c352677302d0631270b8/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:26:20-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:29:9-31:64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:30:13-122
+	android:theme
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from /home/kingf/Desktop/exercise/android/AndroidManifest.xml:29:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] /home/kingf/.android/build-cache/d88eebc684bebba1a627ab9c4f1f3b33c033c220/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/AndroidManifest.xml:19:19-85

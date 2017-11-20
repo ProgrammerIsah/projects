@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/kingf/.android/build-cache/f9c474a4ddf3f2a7ec44ad1f7c90f963cde9ae13/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

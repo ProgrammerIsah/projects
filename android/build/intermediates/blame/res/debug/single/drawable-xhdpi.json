@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",
+        "source": "/home/kingf/Desktop/exercise/android/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/kingf/Desktop/exercise/android/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/kingf/Desktop/exercise/android/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

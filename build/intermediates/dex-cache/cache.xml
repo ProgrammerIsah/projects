@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kingf/Desktop/exercise/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbbf6dc6fa7c61c1c5bb1f27b12308d7f8231a0b">
+        <dex dex="/home/kingf/Desktop/exercise/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4514c32d4d515a261b488950d1345ca0c26521ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kingf/Desktop/exercise/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/kingf/Desktop/exercise/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_136b1d4fb3bb2beef9b7ff12a6bbbef085b78ce0/classes.dex" />
+    </item>
+
+</items>
